@@ -1,0 +1,22 @@
+DESKRIPSI PROJECT UAS PEMROGRAMAN WEB (RISANTI OCALIANA IVA_2201010475)
+
+aplikasi ini merupakan,  aplikasi yang menginput data pribadi berdasarkan KTP 
+yang terdiri dari beberapa kolom yaitu :
+
+NIK
+NAMA
+TEMPAT_LAHIR
+TGL_LALHIR
+JEKEL
+ALAMAT
+AGAMA
+STATUS_PERKAWINAN
+PEKERJAAN
+KEWARGANEGARAAN
+STATUS BERLAKU
+UMUR (penambahan kolom yang datanya terisi otomatis berdasarkan perhitungan dari TGL_LAHIR)
+
+dan kolom Action berfungsi untuk link yang menampilkan button EDIT dan DELETE, didalam tombol edit ini Kita dapat mengeedit atau mengubah data yang telah kita isi sebelumnya.
+dan tombol DELETE berfungsi untuk Menghapus data yang telah di input ke dalam tabel.
+
+untuk memasukan/menginput bahkan menambah data kita dapat menekan tombol NEW pada bagian atas sebelah kiri tabel, di sini kita akan menambahkan data yang telah disesuaika pada tabel.
